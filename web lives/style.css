@@ -284,7 +284,7 @@ a {
   height: 30px;
 }
 .footer__big {
-  background-color: #303030;
+  background-color:#000000;
   height: 300px;
   display: flex;
   justify-content: space-around;
