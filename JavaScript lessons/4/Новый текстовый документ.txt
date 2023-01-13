@@ -1,0 +1,3 @@
+1)  Array tuzaman va arrayni ichida ismlar boladi ular ichidan faqat qidirilgan elementi bori consolga chiqadi. Ishladi lekin chala  :(
+2)  1 dan 10 gacha bolgan sonlar yigindisini hisoblash. Ishladi lekin puxta emas 
+3)  passvord kiriting degan prompt tuzaman agar ichiga yozilgan element soni 8 tadan kam bolsa yana prompt chiqadi faqat tepasida 8 tadan kam element bor deb. Ishlata olmadim
