@@ -1,2 +1,0 @@
-let input = prompt('Agar bog\'i-surx 31A xonadonidan bo\'lsangiz ismingizni kiriting');
-input == 'Toxirjon' || input == 'Toxir' ? alert(`Oilada ota`): input == 'Nilufar' ? alert(`Oilada ona`) : input == `Ozoda` ? alert('Удалённый аккаунт') : input == 'Akmal' ? alert('Oilada katta farzand') : input == 'Samandar' ? alert('Oilada kenjatoy') : alert('Siz bu oilaga begonasiz');
