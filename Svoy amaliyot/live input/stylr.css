@@ -1,0 +1,46 @@
+@import url(./hiih/style2.css);
+.form {
+	height: 100vh;
+	width: 100%;
+	background: #000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.input {
+	position: relative;
+}
+.input__item {
+	position: absolute;
+	background: inherit;
+	border: 3px solid #2965b9;
+	padding: 5px;
+	border-radius: 5px;
+	font-size: 24px;
+	z-index: 50;
+	color: #2965b9;
+	transition: all 0.5s ease;
+}
+.input__item:focus{
+	transition: all 0.5s ease;
+	box-shadow: 0px 0px 10px 0px #2965b9;
+}
+.input__text {
+	position: absolute;
+	z-index: 0;
+	color: #2965b9;
+	background:#000;
+	font-size: 20px;
+	top: 10px;
+	left: 10px;
+	white-space: nowrap;
+	transition: all 0.5s ease;
+}
+.hover{
+	top: -20px;
+	z-index: 55;
+	padding:10px 2px 0px 2px;
+	font-size: 18px;
+	text-shadow: 0px 0px 20px #2965b9 ;
+	transition: all 0.5s ease;
+}
